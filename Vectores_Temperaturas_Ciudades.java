@@ -7,9 +7,9 @@ import java.util.Scanner;
 public class Vectores_Temperaturas_Ciudades {
 
     public static void main(String[] args) {
-        String cities[] = new String[2];
-        double minTemp[] = new double[2];
-        double maxTemp[] = new double[2];
+        String cities[] = new String[5];
+        double minTemp[] = new double[5];
+        double maxTemp[] = new double[5];
         double highestRate = -1000.00;
         double lowestRate = 1000.00;
         String cityMin = "";
